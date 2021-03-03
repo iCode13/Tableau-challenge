@@ -2,13 +2,17 @@
 
 ## Citi Bike Rider Behavior in New York City - Impacts of a Global Pandemic
 
-In this study, Citi Bike rider behavior was analyzed in the New York City area using Tableau. A couple of time periods separated in time were chosen, each covering a span of 4-months: January-April 2019 and January-April 2020. The aim was to be able to analyze monthly trends, as well as yearly trends in New York City with the expectation of seeing the impact of a black swan event like the Covid-19 global pandemic.
+In this study, Citi Bike rider behavior is analyzed in the New York City area using Tableau. A couple of time periods separated in time are chosen, each covering a span of 4-months: January-April 2019 and January-April 2020. The aim is to be able to analyze monthly trends, as well as yearly trends in New York City with the expectation of seeing the impact of a black swan event like the Covid-19 global pandemic.
+
+## Data
+Eight months of Citi Bike rider data are used for this study -  January to April for both 2019 and 2020.
+The data can be accessed [here](https://s3.amazonaws.com/tripdata/index.html).
 
 ## Table of Contents
 
-* Data folder containing CSVs of data used.
-* Images folder containing screenshots of Tableau story.
-* The entire story can be accessed [here](https://public.tableau.com/profile/amy.banerji#!/vizhome/CitiBikeAnalytics_15979089569340/Story) on Tableau Public.
+* Instructions and README.
+* Data analysis report.
+* Images folder containing screenshots of Tableau story. The entire story can also be accessed [here](https://public.tableau.com/profile/amy.banerji#!/vizhome/CitiBikeAnalytics_15979089569340/Story) on Tableau Public.
 
 ## Tableau Story Screenshots
 
@@ -42,13 +46,9 @@ In this study, Citi Bike rider behavior was analyzed in the New York City area u
 * The most popular end stations are located in the heart of Manhattan, where people flock either for business, or to get to the many points of interest -- all interconnected by a robust underground Subway system that is easily accessible by riders. Since the lower cost areas in the north and east often do not provide well paying job or tourism opportunities, fewer riders end trips in these areas. 
 
 <br>
-<br>
 
 ## Technologies
 * Tableau
 
 ## Contact
 Created by [@iCode13](https://github.com/iCode13) - please contact with questions/comments.
-
-
-
